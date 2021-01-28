@@ -59,7 +59,7 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "cross-env": "^5.2.1",
-    "electron": "^4.2.5",
+    "electron": "^9.4.0",
     "electron-builder": "20.41.0",
     "eslint": "^6.4.0",
     "eslint-plugin-vue": "^5.2.3",
